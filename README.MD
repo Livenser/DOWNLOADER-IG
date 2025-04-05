@@ -1,6 +1,6 @@
 <div class="container">
   <div style="text-align: center;">
-    <h1># 🌟 Instagram Downloader</h1>
+    <h1> 🌟 Instagram Downloader</h1>
   </div>
 
   <div class="banner">
