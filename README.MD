@@ -61,10 +61,10 @@
 
 <h3>Cara Jalanin Aplikasi</h3>
 <ol>
-  <li>1. Buka Folder Bernama APK.</li>
-  <li>2. Download APK Bernama DOWNLODER IG.apk.</li>
-  <li>3. Setelah Selesai tinggal dibuka aja.</li>
-  <li>4. Jika Sudah terbuka tinggal enjoy aja make apknya.</li>
+  <li> Buka Folder Bernama APK.</li>
+  <li> Download APK Bernama DOWNLODER IG.apk.</li>
+  <li> Setelah Selesai tinggal dibuka aja.</li>
+  <li> Jika Sudah terbuka tinggal enjoy aja make apknya.</li>
 </ol>
 
 <h2>🔧 Panduan Fitur</h2>
