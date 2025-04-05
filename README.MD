@@ -127,7 +127,7 @@
 
 <h2>🙏 Terima Kasih!</h2>
 <p>
-  Makasih banyak udah mau coba aplikasi ini! Semoga aplikasi ini bisa bantu kamu buat nyimpen konten favorit dari Instagram. Kalau kamu suka, jangan lupa kasih bintang (⭐) di repositori GitHub aku ya! 😊
+  Makasih banyak udah mau coba aplikasi ini! Semoga aplikasi ini bisa bantu kamu buat nyimpen konten favorit dari Instagram.
 </p>
 
 <p class="center">
