@@ -1,7 +1,11 @@
-# 🌟 Instagram Downloader
 <div class="container">
+  <div style="text-align: center;">
+    <h1># 🌟 Instagram Downloader</h1>
+  </div>
+
   <div class="banner">
     <img src="https://cdn.discordapp.com/attachments/1313720907629330432/1357974116438900746/ChatGPT_Image_Apr_2_2025_09_15_52_PM.png?ex=67f22773&is=67f0d5f3&hm=346ef24a9af96da6a99925d93b372d6550ea7a190445b8aa2e723a31c12a9b59&" alt="Instagram Downloader Banner" />
+  </div>
   </div>
 
   <p class="center">
