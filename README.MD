@@ -11,7 +11,7 @@
   </div>
 
   <div>
-    <img src="https://cdn.discordapp.com/attachments/1313720907629330432/1357974116438900746/ChatGPT_Image_Apr_2_2025_09_15_52_PM.png" alt="DOWNLODER IG Banner" width="100%">
+    <img src="https://cdn.discordapp.com/attachments/1313720907629330432/1357974116438900746/ChatGPT_Image_Apr_2_2025_09_15_52_PM.png"  width="100%">
   </div>
 
   <p>
