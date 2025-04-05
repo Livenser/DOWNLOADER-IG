@@ -132,6 +132,6 @@
   </p>
 
   <p class="center">
-    <a href="https://github.com/Livenser/Instagram-Downloader" class="button">GitHub Repository</a>
+    <a href="https://github.com/Livenser/DOWNLOADER-IG/tree/main" class="button">GitHub Repository</a>
   </p>
 </div>
